@@ -8,6 +8,7 @@ namespace BookProject2.Model.Classes
 {
     public class Kid : Book
     {
+        //Change
         public ClassManager ClassManager { get; set; }
 
         public Kid(ClassManager classManager)
