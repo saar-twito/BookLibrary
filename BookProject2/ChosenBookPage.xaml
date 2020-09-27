@@ -1,0 +1,56 @@
+﻿<Page
+    x:Class="BookProject2.ChosenBookPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Image
+                Grid.Row="0"
+                Source="{x:Bind Current.ImageOfBook}"
+                Width="200"
+                Height="200"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Top" />
+
+        <StackPanel Grid.Row="1" Margin="30 0 0 0">
+            <TextBlock
+                Text="Name of the book"
+                Style="{StaticResource OnChosenBookPage}" />
+
+            <TextBlock
+                Text="{x:Bind Current.NameOfBook}"
+                Style="{StaticResource OnBindingChosenBookPage}" />
+        </StackPanel>
+
+        <StackPanel Grid.Row="2" Margin="30 0 0 0">
+
+            <TextBlock
+                Text="Name of author"
+                Style="{StaticResource OnChosenBookPage}" />
+
+            <TextBlock
+                Text="{x:Bind Current.NameOfAuthor}"
+                Style="{StaticResource OnBindingChosenBookPage}" />
+        </StackPanel>
+
+        <StackPanel Grid.Row="3" Margin="30 0 0 0">
+            <TextBlock
+                Text="Time of borrowing"
+                Style="{StaticResource OnChosenBookPage}" />
+
+            <TextBlock
+                x:Name="Time"
+                Style="{StaticResource OnBindingChosenBookPage}" />
+        </StackPanel>
+    </Grid>
+</Page>

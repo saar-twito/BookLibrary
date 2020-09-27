@@ -1,0 +1,12 @@
+﻿
+
+
+
+This project is a small demo that simulates a library.
+This library has three different types of genres:
+a - Art & design
+b - Kids
+c - Fiction
+You can add books and borrow them.
+
+In addition, there is a messaging system that directs and helps the user understand what the problem is if one happened.

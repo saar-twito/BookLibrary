@@ -1,0 +1,62 @@
+﻿<Page
+    x:Class="BookProject2.FictionPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:data="using:BookProject2.Model.Classes"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+
+        <TextBlock
+            Text="Fiction"
+            Style="{StaticResource MyHeader}" />
+
+        <GridView
+               Margin="0 50 0 0"
+               x:Name="FictionGridView"
+               x:FieldModifier="public"
+               ItemsSource="{x:Bind MainPage.ClassManager.Fiction.PrivateObservableBook, Mode=OneWay}"
+               IsItemClickEnabled="True"
+               ItemClick="FictionGridView_ItemClick"
+               SelectionMode="Single">
+
+            <GridView.ItemTemplate>
+                <DataTemplate x:DataType="data:Fiction">
+                    <StackPanel Width="400">
+
+                        <Image
+                            Source="{x:Bind ImageOfBook,Mode=OneWay}"
+                            Width="120"
+                            Height="120" />
+
+                        <TextBlock
+                              Text="{x:Bind NameOfBook,Mode=OneWay}"
+                              Style="{StaticResource MyTextBlock}" />
+
+                        <TextBlock
+                              Text="{x:Bind NameOfAuthor,Mode=OneWay}"
+                              Style="{StaticResource MyTextBlock}" />
+
+                        <TextBlock
+                              Text="{x:Bind Stock,Mode=OneWay}"
+                              Style="{StaticResource MyTextBlock}" />
+                    </StackPanel>
+                </DataTemplate>
+            </GridView.ItemTemplate>
+        </GridView>
+
+        <Button
+            x:Name="TakeMe"
+           Style="{StaticResource MyTakeMeButton}" Click="TakeMe_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Snow" />
+                    <GradientStop Color="Green" Offset="1" />
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+    </Grid>
+</Page>

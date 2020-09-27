@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookProject2", "BookProject2\BookProject2.csproj", "{C25F3275-53B4-4D29-B02A-EB087863FE88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C25F3275-53B4-4D29-B02A-EB087863FE88}.Debug|ARM.ActiveCfg = Debug|ARM
+		{C25F3275-53B4-4D29-B02A-EB087863FE88}.Debug|ARM.Build.0 = Debug|ARM
+		{C25F3275-53B4-4D29-B02A-EB087863FE88}.Debug|ARM.Deploy.0 = Debug|ARM
+		{C25F3275-53B4-4D29-B02A-EB087863FE88}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{C25F3275-53B4-4D29-B02A-EB087863FE88}.Debug|ARM64.Build.0 = Debug|ARM64
+		{C25F3275-53B4-4D29-B02A-EB087863FE88}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{C25F3275-53B4-4D29-B02A-EB087863FE88}.Debug|x64.ActiveCfg = Debug|x64
+		{C25F3275-53B4-4D29-B02A-EB087863FE88}.Debug|x64.Build.0 = Debug|x64
+		{C25F3275-53B4-4D29-B02A-EB087863FE88}.Debug|x64.Deploy.0 = Debug|x64
+		{C25F3275-53B4-4D29-B02A-EB087863FE88}.Debug|x86.ActiveCfg = Debug|x86
+		{C25F3275-53B4-4D29-B02A-EB087863FE88}.Debug|x86.Build.0 = Debug|x86
+		{C25F3275-53B4-4D29-B02A-EB087863FE88}.Debug|x86.Deploy.0 = Debug|x86
+		{C25F3275-53B4-4D29-B02A-EB087863FE88}.Release|ARM.ActiveCfg = Release|ARM
+		{C25F3275-53B4-4D29-B02A-EB087863FE88}.Release|ARM.Build.0 = Release|ARM
+		{C25F3275-53B4-4D29-B02A-EB087863FE88}.Release|ARM.Deploy.0 = Release|ARM
+		{C25F3275-53B4-4D29-B02A-EB087863FE88}.Release|ARM64.ActiveCfg = Release|ARM64
+		{C25F3275-53B4-4D29-B02A-EB087863FE88}.Release|ARM64.Build.0 = Release|ARM64
+		{C25F3275-53B4-4D29-B02A-EB087863FE88}.Release|ARM64.Deploy.0 = Release|ARM64
+		{C25F3275-53B4-4D29-B02A-EB087863FE88}.Release|x64.ActiveCfg = Release|x64
+		{C25F3275-53B4-4D29-B02A-EB087863FE88}.Release|x64.Build.0 = Release|x64
+		{C25F3275-53B4-4D29-B02A-EB087863FE88}.Release|x64.Deploy.0 = Release|x64
+		{C25F3275-53B4-4D29-B02A-EB087863FE88}.Release|x86.ActiveCfg = Release|x86
+		{C25F3275-53B4-4D29-B02A-EB087863FE88}.Release|x86.Build.0 = Release|x86
+		{C25F3275-53B4-4D29-B02A-EB087863FE88}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99205B8E-38CC-41BB-A5BE-5F91336E4727}
+	EndGlobalSection
+EndGlobal

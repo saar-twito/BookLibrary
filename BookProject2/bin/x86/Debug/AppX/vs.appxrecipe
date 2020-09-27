@@ -1,0 +1,300 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SAAR</Machine>
+    <WindowsUser>saart</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>33a45c4e-7380-424f-8919-c963baa3271a</PackageIdentityName>
+    <PackageIdentityPublisher>CN=saart</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\saart\source\repos\BookProject2\Library\BookProject2\obj\x86\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\saart\source\repos\BookProject2\Library\BookProject2\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>9F0921D65C435E6CB564DDBE284EDC40EDFFFCEA8C36D9BB08E520735654D6B2</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>33a45c4e-7380-424f-8919-c963baa3271a_1.0.0.0_x86__z1m63nqxqx7jc</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>33a45c4e-7380-424f-8919-c963baa3271a_z1m63nqxqx7jc!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>33a45c4e-7380-424f-8919-c963baa3271a</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=saart</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\bin\x86\Debug\Core\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-09-27T07:00:39.591</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\bin\x86\Debug\BookProject2.exe">
+      <PackagePath>entrypoint\BookProject2.exe</PackagePath>
+      <Modified>2020-09-27T07:00:39.140</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\saart\.nuget\packages\prism.core\7.2.0.1422\lib\netstandard2.0\Prism.dll">
+      <PackagePath>Prism.dll</PackagePath>
+      <Modified>2019-11-21T14:58:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.10\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
+      <PackagePath>System.Runtime.dll</PackagePath>
+      <Modified>2020-02-27T16:16:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.18362.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
+      <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
+      <Modified>2019-03-18T15:36:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\BookImages\Art And Design\100 Interiors Around the World.png">
+      <PackagePath>BookImages\Art And Design\100 Interiors Around the World.png</PackagePath>
+      <Modified>2020-08-25T15:23:14.976</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\BookImages\Art And Design\20th Century Photography.png">
+      <PackagePath>BookImages\Art And Design\20th Century Photography.png</PackagePath>
+      <Modified>2020-08-25T15:23:14.978</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\BookImages\Art And Design\Masterpieces of British Design.png">
+      <PackagePath>BookImages\Art And Design\Masterpieces of British Design.png</PackagePath>
+      <Modified>2020-08-25T15:23:14.985</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\BookImages\Art And Design\Missoni Art Colour.png">
+      <PackagePath>BookImages\Art And Design\Missoni Art Colour.png</PackagePath>
+      <Modified>2020-08-25T15:23:14.986</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\BookImages\Art And Design\Movies Of The 2000%27S.png">
+      <PackagePath>BookImages\Art And Design\Movies Of The 2000%27S.png</PackagePath>
+      <Modified>2020-08-25T15:23:14.988</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\BookImages\book.png">
+      <PackagePath>BookImages\book.png</PackagePath>
+      <Modified>2020-08-31T13:38:38.783</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\BookImages\Child\Hello Kitty%27s Fabulous Things.png">
+      <PackagePath>BookImages\Child\Hello Kitty%27s Fabulous Things.png</PackagePath>
+      <Modified>2020-08-25T15:23:17.504</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\BookImages\Child\My First Hebrew Word Book.png">
+      <PackagePath>BookImages\Child\My First Hebrew Word Book.png</PackagePath>
+      <Modified>2020-08-25T15:23:17.505</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\BookImages\Child\Sammy Spider%27s First Mitzvah.png">
+      <PackagePath>BookImages\Child\Sammy Spider%27s First Mitzvah.png</PackagePath>
+      <Modified>2020-08-25T15:23:17.508</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\BookImages\Child\The Giving Tree.png">
+      <PackagePath>BookImages\Child\The Giving Tree.png</PackagePath>
+      <Modified>2020-08-25T15:23:17.509</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\BookImages\Child\The Recruit.png">
+      <PackagePath>BookImages\Child\The Recruit.png</PackagePath>
+      <Modified>2020-08-25T15:23:17.511</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\BookImages\Fiction\Captivated by You.png">
+      <PackagePath>BookImages\Fiction\Captivated by You.png</PackagePath>
+      <Modified>2020-08-25T15:23:12.085</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\BookImages\Fiction\Complete Dead Sea Scrolls.png">
+      <PackagePath>BookImages\Fiction\Complete Dead Sea Scrolls.png</PackagePath>
+      <Modified>2020-08-25T15:23:12.087</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\BookImages\Fiction\Entwined With You.png">
+      <PackagePath>BookImages\Fiction\Entwined With You.png</PackagePath>
+      <Modified>2020-08-25T15:23:12.094</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\BookImages\Fiction\Gretel and the Dark.png">
+      <PackagePath>BookImages\Fiction\Gretel and the Dark.png</PackagePath>
+      <Modified>2020-08-25T15:23:12.096</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\BookImages\Fiction\The Unfinished Symphony of You and Me.png">
+      <PackagePath>BookImages\Fiction\The Unfinished Symphony of You and Me.png</PackagePath>
+      <Modified>2020-08-25T15:23:12.097</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2020-08-09T12:41:44.228</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-09T12:41:44.239</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-09T12:41:44.240</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-09T12:41:44.241</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-09T12:41:44.242</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-09T12:41:44.244</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-09T12:41:44.245</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\About the project\Explanation about the project.txt">
+      <PackagePath>About the project\Explanation about the project.txt</PackagePath>
+      <Modified>2020-09-20T18:23:51.815</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2020-08-25T15:10:42.502</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\bin\x86\Debug\BookProject2.xr.xml">
+      <PackagePath>BookProject2.xr.xml</PackagePath>
+      <Modified>2020-09-27T07:00:38.955</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2020-09-27T07:00:38.965</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\bin\x86\Debug\AddBooks.xbf">
+      <PackagePath>AddBooks.xbf</PackagePath>
+      <Modified>2020-09-27T06:44:40.684</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\bin\x86\Debug\ArtAndDesignPage.xbf">
+      <PackagePath>ArtAndDesignPage.xbf</PackagePath>
+      <Modified>2020-09-27T06:44:40.684</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\bin\x86\Debug\ChildPage.xbf">
+      <PackagePath>ChildPage.xbf</PackagePath>
+      <Modified>2020-09-27T06:44:40.684</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\bin\x86\Debug\ChosenBookPage.xbf">
+      <PackagePath>ChosenBookPage.xbf</PackagePath>
+      <Modified>2020-09-27T07:00:38.965</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\bin\x86\Debug\FictionPage.xbf">
+      <PackagePath>FictionPage.xbf</PackagePath>
+      <Modified>2020-09-27T06:44:40.684</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\bin\x86\Debug\HomePage.xbf">
+      <PackagePath>HomePage.xbf</PackagePath>
+      <Modified>2020-09-27T06:44:40.682</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2020-09-27T06:44:40.685</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+      <Modified>2019-03-18T14:33:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2020-09-26T19:58:36.119</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\bin\x86\Debug\Core\BookProject2.exe">
+      <PackagePath>BookProject2.exe</PackagePath>
+      <Modified>2020-09-27T07:00:39.586</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27902.3</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27902.3, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27902.3</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27902.3, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27902.3</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27902.3, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.28529.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.28529.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.28529.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.28529.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.28529.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.28529.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
