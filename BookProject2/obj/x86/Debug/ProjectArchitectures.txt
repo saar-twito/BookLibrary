@@ -1,1 +1,1 @@
-C:\Users\saart\source\repos\BookProject2\Library\BookProject2\BookProject2.csproj;x86
+C:\Users\saart\source\repos\BookLibrary\BookProject2\BookProject2.csproj;x86

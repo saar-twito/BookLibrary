@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\saart\\source\\repos\\BookProject2\\Library\\BookProject2\\BookProject2.csproj": {}
+    "C:\\Users\\saart\\source\\repos\\BookLibrary\\BookProject2\\BookProject2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\saart\\source\\repos\\BookProject2\\Library\\BookProject2\\BookProject2.csproj": {
+    "C:\\Users\\saart\\source\\repos\\BookLibrary\\BookProject2\\BookProject2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saart\\source\\repos\\BookProject2\\Library\\BookProject2\\BookProject2.csproj",
+        "projectUniqueName": "C:\\Users\\saart\\source\\repos\\BookLibrary\\BookProject2\\BookProject2.csproj",
         "projectName": "BookProject2",
-        "projectPath": "C:\\Users\\saart\\source\\repos\\BookProject2\\Library\\BookProject2\\BookProject2.csproj",
+        "projectPath": "C:\\Users\\saart\\source\\repos\\BookLibrary\\BookProject2\\BookProject2.csproj",
         "packagesPath": "C:\\Users\\saart\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saart\\source\\repos\\BookProject2\\Library\\BookProject2\\obj\\",
+        "outputPath": "C:\\Users\\saart\\source\\repos\\BookLibrary\\BookProject2\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [

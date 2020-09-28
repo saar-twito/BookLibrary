@@ -1,0 +1,78 @@
+﻿<Page
+    x:Class="BookProject2.HomePage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <TextBlock
+            Margin="15 0 0 0"
+            Text="Home"
+            Foreground="Gray"
+            FontSize="30"
+            FontWeight="Bold" />
+
+        <TextBlock
+            Text="Welcome To Steimatzky 📚"
+            Foreground="LightGreen"
+            TextWrapping="Wrap"
+            Grid.Row="0"
+            FontSize="45"
+            FontWeight="Bold"
+            HorizontalAlignment="Center" />
+
+        <TextBlock
+                Grid.Row="1"
+                Text="Steimatzky is the oldest and largest bookstore chain in Israel. The first store was opened by Tzvi Steimatzky in 1920 in Tel Aviv, 6 Hertzel St. In 1925 his half brother Yechezkel Steimatzky opened the second store on Jaffa Road in Jerusalem. Yechezkel Steimatzky was a Russian-born immigrant from Germany."
+                Margin="20"
+                Width="auto"
+                TextWrapping="Wrap"
+                FontSize="20" />
+
+        <TextBlock
+                Grid.Row="2"
+                Text="He had originally come to the British Mandate of Palestine on a short visit for the opening of the Hebrew University of Jerusalem and decided to stay after he saw the potential in opening a foreign language bookstore that would serve a growing immigrants' market as well as British Army soldiers serving under the British Mandate."
+                Margin="20"
+                Width="auto"
+                TextWrapping="Wrap"
+                FontSize="20" />
+
+        <TextBlock
+                Grid.Row="3"
+                Text="The concept was so successful that he opened an additional store in Haifa later that year.
+In 1927 Steimatzky saw the potential for expansion throughout the Middle East and opened a store in Beirut. The company name was changed to Steimatzky Middle East Agency. During World War II, a Steimatzky store opened in Baghdad next to the British Army base, and soon after in Cairo, Alexandria, and Damascus."
+                Margin="20"
+                Width="auto"
+                TextWrapping="Wrap"
+                FontSize="20" />
+
+        <TextBlock
+                Grid.Row="4"
+                Text="The Middle Eastern expansion came to a halt with the outbreak of the 1948 Arab–Israeli war and the nationalization of all branches in Beirut, Baghdad, Cairo and Damascus.[1] By 1948 another store opened on Allenby Street in Tel Aviv."
+                Margin="20"
+                Width="auto"
+                TextWrapping="Wrap"
+                FontSize="20" />
+
+        <HyperlinkButton
+            Grid.Row="5"
+            Content="Feel free to visit our website for more books 😁👌"
+            Foreground="Green"
+            NavigateUri="http://www.steimatzky.co.il/"
+            Margin="10 20 0 0"
+            FontSize="20" />
+    </Grid>
+</Page>
+

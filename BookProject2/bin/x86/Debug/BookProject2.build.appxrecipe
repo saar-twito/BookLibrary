@@ -10,22 +10,22 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>33a45c4e-7380-424f-8919-c963baa3271a</PackageIdentityName>
     <PackageIdentityPublisher>CN=saart</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\saart\source\repos\BookProject2\Library\BookProject2\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\saart\source\repos\BookLibrary\BookProject2\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\saart\source\repos\BookProject2\Library\BookProject2\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\saart\source\repos\BookLibrary\BookProject2\bin\x86\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\saart\source\repos\BookLibrary\BookProject2\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\bin\x86\Debug\BookProject2.exe">
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookLibrary\BookProject2\bin\x86\Debug\BookProject2.exe">
       <PackagePath>entrypoint\BookProject2.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\saart\.nuget\packages\prism.core\7.2.0.1422\lib\netstandard2.0\Prism.dll">
@@ -37,121 +37,121 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.18362.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\BookImages\Art And Design\100 Interiors Around the World.png">
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookLibrary\BookProject2\BookImages\Art And Design\100 Interiors Around the World.png">
       <PackagePath>BookImages\Art And Design\100 Interiors Around the World.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\BookImages\Art And Design\20th Century Photography.png">
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookLibrary\BookProject2\BookImages\Art And Design\20th Century Photography.png">
       <PackagePath>BookImages\Art And Design\20th Century Photography.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\BookImages\Art And Design\Masterpieces of British Design.png">
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookLibrary\BookProject2\BookImages\Art And Design\Masterpieces of British Design.png">
       <PackagePath>BookImages\Art And Design\Masterpieces of British Design.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\BookImages\Art And Design\Missoni Art Colour.png">
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookLibrary\BookProject2\BookImages\Art And Design\Missoni Art Colour.png">
       <PackagePath>BookImages\Art And Design\Missoni Art Colour.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\BookImages\Art And Design\Movies Of The 2000%27S.png">
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookLibrary\BookProject2\BookImages\Art And Design\Movies Of The 2000%27S.png">
       <PackagePath>BookImages\Art And Design\Movies Of The 2000%27S.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\BookImages\book.png">
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookLibrary\BookProject2\BookImages\book.png">
       <PackagePath>BookImages\book.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\BookImages\Child\Hello Kitty%27s Fabulous Things.png">
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookLibrary\BookProject2\BookImages\Child\Hello Kitty%27s Fabulous Things.png">
       <PackagePath>BookImages\Child\Hello Kitty%27s Fabulous Things.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\BookImages\Child\My First Hebrew Word Book.png">
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookLibrary\BookProject2\BookImages\Child\My First Hebrew Word Book.png">
       <PackagePath>BookImages\Child\My First Hebrew Word Book.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\BookImages\Child\Sammy Spider%27s First Mitzvah.png">
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookLibrary\BookProject2\BookImages\Child\Sammy Spider%27s First Mitzvah.png">
       <PackagePath>BookImages\Child\Sammy Spider%27s First Mitzvah.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\BookImages\Child\The Giving Tree.png">
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookLibrary\BookProject2\BookImages\Child\The Giving Tree.png">
       <PackagePath>BookImages\Child\The Giving Tree.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\BookImages\Child\The Recruit.png">
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookLibrary\BookProject2\BookImages\Child\The Recruit.png">
       <PackagePath>BookImages\Child\The Recruit.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\BookImages\Fiction\Captivated by You.png">
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookLibrary\BookProject2\BookImages\Fiction\Captivated by You.png">
       <PackagePath>BookImages\Fiction\Captivated by You.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\BookImages\Fiction\Complete Dead Sea Scrolls.png">
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookLibrary\BookProject2\BookImages\Fiction\Complete Dead Sea Scrolls.png">
       <PackagePath>BookImages\Fiction\Complete Dead Sea Scrolls.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\BookImages\Fiction\Entwined With You.png">
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookLibrary\BookProject2\BookImages\Fiction\Entwined With You.png">
       <PackagePath>BookImages\Fiction\Entwined With You.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\BookImages\Fiction\Gretel and the Dark.png">
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookLibrary\BookProject2\BookImages\Fiction\Gretel and the Dark.png">
       <PackagePath>BookImages\Fiction\Gretel and the Dark.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\BookImages\Fiction\The Unfinished Symphony of You and Me.png">
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookLibrary\BookProject2\BookImages\Fiction\The Unfinished Symphony of You and Me.png">
       <PackagePath>BookImages\Fiction\The Unfinished Symphony of You and Me.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookLibrary\BookProject2\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookLibrary\BookProject2\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookLibrary\BookProject2\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookLibrary\BookProject2\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookLibrary\BookProject2\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookLibrary\BookProject2\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookLibrary\BookProject2\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\About the project\Explanation about the project.txt">
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookLibrary\BookProject2\About the project\Explanation about the project.txt">
       <PackagePath>About the project\Explanation about the project.txt</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookLibrary\BookProject2\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\bin\x86\Debug\BookProject2.xr.xml">
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookLibrary\BookProject2\bin\x86\Debug\BookProject2.xr.xml">
       <PackagePath>BookProject2.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\bin\x86\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookLibrary\BookProject2\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\bin\x86\Debug\AddBooks.xbf">
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookLibrary\BookProject2\bin\x86\Debug\AddBooks.xbf">
       <PackagePath>AddBooks.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\bin\x86\Debug\ArtAndDesignPage.xbf">
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookLibrary\BookProject2\bin\x86\Debug\ArtAndDesignPage.xbf">
       <PackagePath>ArtAndDesignPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\bin\x86\Debug\ChildPage.xbf">
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookLibrary\BookProject2\bin\x86\Debug\ChildPage.xbf">
       <PackagePath>ChildPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\bin\x86\Debug\ChosenBookPage.xbf">
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookLibrary\BookProject2\bin\x86\Debug\ChosenBookPage.xbf">
       <PackagePath>ChosenBookPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\bin\x86\Debug\FictionPage.xbf">
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookLibrary\BookProject2\bin\x86\Debug\FictionPage.xbf">
       <PackagePath>FictionPage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\bin\x86\Debug\HomePage.xbf">
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookLibrary\BookProject2\bin\x86\Debug\HomePage.xbf">
       <PackagePath>HomePage.xbf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\bin\x86\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookLibrary\BookProject2\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookLibrary\BookProject2\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookProject2\Library\BookProject2\bin\x86\Debug\Core\BookProject2.exe">
+    <AppxPackagedFile Include="C:\Users\saart\source\repos\BookLibrary\BookProject2\bin\x86\Debug\Core\BookProject2.exe">
       <PackagePath>BookProject2.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

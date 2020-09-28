@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "38DvkG2ftHmliHwUrlB/GLz1QEc3oUBsi/xSPnTS0IMFEbWgDXeJeY4WNM1QDnVuwZ4DT+jR795Q3QdcirWR3w==",
+  "dgSpecHash": "VMhhJzKcQOHIN2myXKQfaSbjSAJxuAsNiIEx+oZ8rNpPm5VTG6KtdpgsdLLU4o8D2v+v68Rz3fQB/3cxwD3D9g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\saart\\source\\repos\\BookProject2\\Library\\BookProject2\\BookProject2.csproj",
+  "projectFilePath": "C:\\Users\\saart\\source\\repos\\BookLibrary\\BookProject2\\BookProject2.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.native.compiler\\2.2.8-rel-28605-00\\microsoft.net.native.compiler.2.2.8-rel-28605-00.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\microsoft.net.uwpcoreruntimesdk\\2.2.10\\microsoft.net.uwpcoreruntimesdk.2.2.10.nupkg.sha512",
