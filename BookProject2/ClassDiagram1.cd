@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BookProject2.AddBooks" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgIgAAQAAAAAAAAAAAAAQAABAAAAAAEAEAQAAACAA=</HashCode>
+      <FileName>AddBooks.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookProject2.App" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAQAAIAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookProject2.ArtAndDesignPage" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAQAAAEAIAAAAAAASAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ArtAndDesignPage.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookProject2.ChildPage" Collapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAQAAAEAIAAAAAAAQAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>ChildPage.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookProject2.ChosenBookPage" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ChosenBookPage.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookProject2.FictionPage" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAQAAAFAIAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FictionPage.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookProject2.HomePage" Collapsed="true">
+    <Position X="12.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HomePage.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookProject2.MainPage" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAASIABAgCAAAAQAAAAQgAAAAAAAYAAAAAAABAAAA=</HashCode>
+      <FileName>MainPage.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookProject2.Model.Abstract.Book" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAwACAQAAAAAAAAAAAChAAAAAAAAABACAAACAA=</HashCode>
+      <FileName>Model\Abstract\Book.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookProject2.Model.ArtAndDesign" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAQAAAAAAAAAAAAAAACBAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Classes\ArtAndDesign.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookProject2.Model.Classes.ClassManager" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAEAAAAAAAAAQAAQAQBAAAAAAAAAAMAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Classes\ClassManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookProject2.Model.Classes.Fiction" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAQAAAAAAAAAAAAAAACBAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Classes\Fiction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookProject2.Model.Classes.Kid" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAQAAAAAAAAAAAAAAACBAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Classes\Kid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookProject2.Static.InfoMessage" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAIAAMAAEAAAQAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Static\InfoMessage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookProject2.Static.Validation" Collapsed="true">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Static\Validation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="BookProject2.Model.Enum.Category" Collapsed="true">
+    <Position X="7.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAgAAAAAAAAIAAAAAAAEAAAA=</HashCode>
+      <FileName>Model\Enum\Category.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
